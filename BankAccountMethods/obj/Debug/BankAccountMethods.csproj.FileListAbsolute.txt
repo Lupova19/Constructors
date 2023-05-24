@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\Constructors\BankAccountMethods\bin\Debug\BankAccountMethods.exe.config
+C:\Users\Admin\Desktop\Lupova19\Constructors\BankAccountMethods\bin\Debug\BankAccountMethods.exe
+C:\Users\Admin\Desktop\Lupova19\Constructors\BankAccountMethods\bin\Debug\BankAccountMethods.pdb
+C:\Users\Admin\Desktop\Lupova19\Constructors\BankAccountMethods\obj\Debug\BankAccountMethods.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\Constructors\BankAccountMethods\obj\Debug\BankAccountMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\Constructors\BankAccountMethods\obj\Debug\BankAccountMethods.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\Constructors\BankAccountMethods\obj\Debug\BankAccountMethods.exe
+C:\Users\Admin\Desktop\Lupova19\Constructors\BankAccountMethods\obj\Debug\BankAccountMethods.pdb

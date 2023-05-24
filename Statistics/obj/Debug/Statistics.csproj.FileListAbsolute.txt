@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\Constructors\Statistics\bin\Debug\Statistics.exe.config
+C:\Users\Admin\Desktop\Lupova19\Constructors\Statistics\bin\Debug\Statistics.exe
+C:\Users\Admin\Desktop\Lupova19\Constructors\Statistics\bin\Debug\Statistics.pdb
+C:\Users\Admin\Desktop\Lupova19\Constructors\Statistics\obj\Debug\Statistics.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\Constructors\Statistics\obj\Debug\Statistics.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\Constructors\Statistics\obj\Debug\Statistics.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\Constructors\Statistics\obj\Debug\Statistics.exe
+C:\Users\Admin\Desktop\Lupova19\Constructors\Statistics\obj\Debug\Statistics.pdb

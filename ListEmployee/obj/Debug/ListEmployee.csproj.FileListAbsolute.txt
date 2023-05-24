@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\Constructors\ListEmployee\bin\Debug\ListEmployee.exe.config
+C:\Users\Admin\Desktop\Lupova19\Constructors\ListEmployee\bin\Debug\ListEmployee.exe
+C:\Users\Admin\Desktop\Lupova19\Constructors\ListEmployee\bin\Debug\ListEmployee.pdb
+C:\Users\Admin\Desktop\Lupova19\Constructors\ListEmployee\obj\Debug\ListEmployee.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\Constructors\ListEmployee\obj\Debug\ListEmployee.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\Constructors\ListEmployee\obj\Debug\ListEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\Constructors\ListEmployee\obj\Debug\ListEmployee.exe
+C:\Users\Admin\Desktop\Lupova19\Constructors\ListEmployee\obj\Debug\ListEmployee.pdb

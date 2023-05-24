@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\Constructors\TheOldestFamilyMember\bin\Debug\TheOldestFamilyMember.exe.config
+C:\Users\Admin\Desktop\Lupova19\Constructors\TheOldestFamilyMember\bin\Debug\TheOldestFamilyMember.exe
+C:\Users\Admin\Desktop\Lupova19\Constructors\TheOldestFamilyMember\bin\Debug\TheOldestFamilyMember.pdb
+C:\Users\Admin\Desktop\Lupova19\Constructors\TheOldestFamilyMember\obj\Debug\TheOldestFamilyMember.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\Constructors\TheOldestFamilyMember\obj\Debug\TheOldestFamilyMember.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\Constructors\TheOldestFamilyMember\obj\Debug\TheOldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\Constructors\TheOldestFamilyMember\obj\Debug\TheOldestFamilyMember.exe
+C:\Users\Admin\Desktop\Lupova19\Constructors\TheOldestFamilyMember\obj\Debug\TheOldestFamilyMember.pdb

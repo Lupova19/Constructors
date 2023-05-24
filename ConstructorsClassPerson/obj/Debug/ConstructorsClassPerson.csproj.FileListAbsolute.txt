@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\Constructors\ConstructorsClassPerson\bin\Debug\ConstructorsClassPerson.exe.config
+C:\Users\Admin\Desktop\Lupova19\Constructors\ConstructorsClassPerson\bin\Debug\ConstructorsClassPerson.exe
+C:\Users\Admin\Desktop\Lupova19\Constructors\ConstructorsClassPerson\bin\Debug\ConstructorsClassPerson.pdb
+C:\Users\Admin\Desktop\Lupova19\Constructors\ConstructorsClassPerson\obj\Debug\ConstructorsClassPerson.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\Constructors\ConstructorsClassPerson\obj\Debug\ConstructorsClassPerson.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\Constructors\ConstructorsClassPerson\obj\Debug\ConstructorsClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\Constructors\ConstructorsClassPerson\obj\Debug\ConstructorsClassPerson.exe
+C:\Users\Admin\Desktop\Lupova19\Constructors\ConstructorsClassPerson\obj\Debug\ConstructorsClassPerson.pdb
